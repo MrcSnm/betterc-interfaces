@@ -1,0 +1,16 @@
+{
+	"authors": [
+		"Hipreme"
+	],
+	"copyright": "Copyright © 2023, Hipreme",
+	"targetType": "staticLibrary",
+	"buildOptions": [
+		"betterC"
+	],
+	"toolchainRequirements": {
+		"frontend": ">=2.101"
+	},
+	"description": "A minimal D application.",
+	"license": "BSL-1.0",
+	"name": "betterc-interface"
+}
