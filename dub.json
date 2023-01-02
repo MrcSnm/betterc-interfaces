@@ -10,7 +10,7 @@
 	"toolchainRequirements": {
 		"frontend": ">=2.101"
 	},
-	"description": "A minimal D application.",
+	"description": "Interfaces and Dynamic Casts for betterC classes.",
 	"license": "BSL-1.0",
 	"name": "betterc-interface"
 }
