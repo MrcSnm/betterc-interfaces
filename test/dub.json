@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"Hipreme"
+	],
+	"buildOptions": [
+		"betterC"
+	],
+	"dependencies": {
+		"betterc-interface": {"path": "../"}
+	},
+	"copyright": "Copyright © 2023, Hipreme",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "test"
+}

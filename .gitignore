@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/betterc-interface
+betterc-interface.so
+betterc-interface.dylib
+betterc-interface.dll
+betterc-interface.a
+betterc-interface.lib
+betterc-interface-test-*
+*.exe
+*.o
+*.obj
+*.lst
